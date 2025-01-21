@@ -25,7 +25,7 @@ dataset/
 │  
 ├── human_face/       # Contains images of human faces  
 ├── not_a_face/       # Contains images that are not human faces  
-
+```
 
 ## How to Use  
 
