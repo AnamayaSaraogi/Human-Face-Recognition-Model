@@ -33,7 +33,7 @@ dataset/
 To directly use the pre-trained model, follow these steps:  
 
 - Open the `implementation.ipynb` notebook in Google Colab.  
-- Upload the `face_recognition.keras` file from this repository.  
+- When prompted to uplaod a file, upload any image from your device.  
 - Run the code to load the model and classify your input images.  
 
 ### 2. Train the Model from Scratch  
