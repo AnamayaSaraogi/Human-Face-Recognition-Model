@@ -18,11 +18,13 @@ This repository contains the implementation of a **Convolutional Neural Network 
 
 ## Dataset Structure  
 
-The dataset used for training and evaluation is structured as follows:  
-dataset/
-│
-├── human_face/ # Contains images of human faces
-├── not_a_face/ # Contains images that are not human faces
+The dataset used for training and evaluation is structured as follows:
+
+```
+dataset/  
+│  
+├── human_face/       # Contains images of human faces  
+├── not_a_face/       # Contains images that are not human faces  
 
 
 ## How to Use  
